@@ -1,12 +1,75 @@
+Final Creacion emprendimientos
+
+CAP 1
+A_	
+	luego de recibirse hay dos caminos: buscar empleo o generar empleo.
+	Constituir empresa
+	aprovechando el conocimiento adquirido (Inmmunostep)
+	emprender = aprender
+	IDEA:
+		investigacion no necesariamente vinculada a un negocio
+	PLAN DE NEGOCIOS
+		que es lo que puedes brindar que el mercado necesita
+			deficiencias de mercado, vigilar competencia
+			establecer canal, modelo
+			capacidad tecnica mas comercial
+			primero ponerse en contacto con los clientes, luego montar la empresa
+			detectar oportunidad de negocio
+			que modelo de negocios sirve(centralizado, descentralizado, etc)
+			adaptacion o flexibilidad
+			
+			aprovechar internet para darse a conocer
+	CLAVES PARA EL EXITO
+		diferenciacion
+		productos novedosos, investigacion
+		mantenerse en la vanguardia del mercado
+		detectar necesidad local, o aprovechar recursos autoctonos
+		internacionalizacion
+		buscar contactos en congresos
+		organización de las tareas (planificar, optimizar tiempos y recursos)
+		perseverar aunq no salga bien
+		calidad, profesionalidad, cumplir, soñar
+		que hago con lo que tengo o lo q consigo
+		comienzos duros
+		
+B_
+	todos los líderes que inspiran se comportan de la misma manera: Golden Circle:
+		porque ? como ? que (de adentro afuera)
+		todos saben porque lo hace, algunos saben como (propuesta de valor), pero pocas organizaciones saben porque, el beneficio es el resultado, cual es el propósito, la causa, la creencia? Para que te levantas, porque al resto le importas? Las organizaciones q inspiran piensan actuan y se comunican de adentro hacia afuera
+	los malos dicen que y como, no inspiran.
+	La gente no compra o que haces, compra porque lo haces
+	El objetivo no es hacer negocios con todos los que necesitan lo que uno quiere. El objetivo es hacer negocios con los que creen en lo que uno cree.
+	De adentro hacia afuera hablas directamente con el comportamiento, y luego lo racionalizamos, así se toman las desiciones, (no se siente bien) porque lo de adentro no maneja el lenguaje (limbico)
+	ganas lealtad.
+	Clásicas supuestas razones de fracaso: falta de capital, personas equivocadas, malas condiciones de mercado.
+	La gente no compra lo que haces, compra porque lo haces.
+	Los adoptadores recientes son intuitivos, abren el mercado a las masas. (Ley de la difusion de la innovacion)
+	La gente que cree en lo que uno cree, toma la causa como propia, y la esparce.
+	
 C_		Paul Graham
 	Haz algo que la gente quiera. No preocuparse al comienzo por el modelo de negocios, sino por el producto. Comenzar como no lucrativas. Como google el primer año. No ser malvados con los clientes, ni al inicio ni siendo grande. 
 	Ser bueno ayuda a las startups de tres maneras: Mejora estado de ánimo, hace que otros quieran ayudar, y sobre todo ayuda a ser desicivas, ya que cuando queres tirar la toalla, si sabés que estas ayudando a la gente, seguis igual, cuidas la compañia. Además te da brujula, haces lo mejor para los usuarios.
- 
+	
+
 D_		Andy Freire
 	El 5 porciento del tiempo puede mejorar el ciento porciento la vida de alguien que lo necesita. solo eso puede cambiar muchas cosas. Todos tenemos un gen social que nos lleva a hacer algo por el otro. Plata no equivale a plenitud.
 	La plenitud no la da dar plata, sino poner el cuerpo y el alma, en aquello que te hace vibrar, "hace a tu corazon cantar".
 	La clave de ser emprendedor es encontrar algo que te impulse, mejorar la calidad de vida de otros o la propia. el 90% de las ideas exitosas tienen relación con algo de tu vida cotidiana, de allí surgen las oportunidades. Hay que estar alertas a las necesidades del entorno.
 	Creo que no hay nada más pleno que ser dueño de tu propio destino, y para eso hay que saber qué te motiva, luego capacitarte y llevarlo adelante. No hay nada más dignificante en la vida, por eso invito a todos a hacerlo
+	
+
+E_
+	No puedes conectar los puntos mirando hacia adelante, solo mirando hacia atraás, así que hay que confiar que los puntos se conectarán, hay que confiar en algo, destino carma instinto la vida, porque creerlo te drara la confianza de seguir tu corazón.
+	A veces la vida te dará en la cabzza con un ladrillo, pero no pierdas la fe, el amor por lo que haces, hay que encontrar lo que amas hacer. Lo sabrás cuadno lo hallas encontrado. Las cosas mejoraran según pasan los años,como en todas las relaciones geniales.
+	Hacer de cuenta que muero hoy, para tomar decisiones grandes, porque las expectativas de los demas, el orgullo, y el miedo al ridiculo o al fracaso, se desvanecen frente a la muerte.Evitás las trampa de penzar que tenés algo que perder. 
+	No vivir según los pensamientos de otros. No ahorgar la voz propia por el bullicio ajeno. Tener coraje para seguir el corazón y la intuición. Ellos ya saben en lo que quieren convertirse. Todo lo demás es secundario.
+	Sé hambriento, se loco (inocente)
+	
+
+F_      Santiago Bilinkis
+    en el pasado la tecnología avanzaba linealmente o menos. Por eso desepcionò el futuro. Cada vez que se plantea una meta, planificas para un mundo que no existe. La vida va a cambiar más en los próximos 50 años que en los anteriores 5000. Nadie dirige pensando en los grandes cambios que se vienen.
+    
+
 
 G_		Hermanos Tejeda	
 	En la literatura sobre emprendimiento se hace hincapié en el control de la incertidumbre, en la innovación, y en el aprovechamiento de oportunicades percibidas.
@@ -21,6 +84,103 @@ H_		Emprendedor profesional - Daniel Miguez
 		entorno: influencia neg o pos el impulso a emprender.
 			en eeuu el 95 de la riqueza la generaban los emp nuevos
 
-cambios de paradigma:
-antes las empresas grandes tenian una estructura vertical, no habia liderazgo sino autoridad, las habilidades emprendedoras no eran recompensadas. los cambios de estrategia o estructura demandaban años.
+    cambios de paradigma:
+    antes las empresas grandes tenian una estructura vertical, no habia liderazgo sino autoridad, las habilidades emprendedoras no eran recompensadas. los cambios de estrategia o estructura demandaban años.
 
+
+J_      Analisis externo
+    Hallar dificultades, caminos y oportunidades hacia el éxito. minimizar amenazas. contiene: entorno general, y mercado concreto.
+    PEST: analisis del macro-entorno (gran imagen). 
+    da perspectiva a crecimiento futuro. 
+    Entorno grl:
+        - politico, juridico y legal (requisitos)
+        que afectan al sector, cosumidores y compañia.
+        - economicos. se ahorra? hay plata, se gasta, futuro que pasa. 
+        - social y cultural. Idioma, costumbres, educacion, valores alteran el comportamiento de los individuos. detectar amenazas u oportunidades en los cambios.
+        - tecnológico. adquisicion de tecnologia, mano de obra y precios. 
+    Específicos: 5 fuerzas de Michael Porter
+        - Productos sustitutivos: alternativas que cubren las mismas o parecidas necesidades. Limita precio
+        - Competidores potenciales: la amenaza depende de la reaccion de los competidores existentes ante una entrada nueva, y las barreras de entrada.
+        - Intensidad de la competencia actual: rivalidad. depende de la cantidad de competidores y su tamaño; el crecimiento del sector; grado de diferenciacion; costos fijos de la actividad.
+        - Poder de negociación de los proveedores: flexible ellos pueden modificar las condiciones. depende del numero de ellos, las diferenciaciones entre ellos, sustitutos, importancia nuestra para ellos, amenaza integracion vetical, importancia del producto en el coste final.
+        - Poder de negociación de los clientes: estos pueden modificar las condiciones si el poder es elevado (precio o calidad) y puede disminuir los beneficios. depende del numero de clientes y su concentración, diferenciacion de nuestro producto, sustitutos, rentabilidad, amenaza de integracion vertical hacia atrás por parte del cliente industrial, importancia del producto sobre el coste final del cliente y por último la información que dispone el cliente.
+    
+K_      Sebastián Campanario
+    errores: aprendizaje y superacion. MVP. La escuela debería fomentar la experimentación y la resiliencia ante fracasos (no la perfección). Los éxitos poseen numerosos fracasos previos. premios al error del año, o cartas de perdon remuneradas o castigadas a fin de año. Cambio cultural necesario, no hay que hablar de fracaso, sino de error o falla.
+    
+L_      Iñigo Sáenz
+    Fracaso = frontera entre emocion o decepcion. Lleva a la elección. Ahorra tiempo mental. Fracaso combustible del éxito. Comunmente lo prohiben. Mas fracasas, mas consigues, mas posibilidades se abren. 
+
+    
+    
+    
+CAP 2 
+A_      Estanislao Bachrach
+    antes la creatividad y el analitico eran cosas separadas, hoy en dia se sabe que funciona simultaneamente. Ser creativos no es hacer cosas distintas, es combinar cosas existentes de nuevas maneras. Ejemplo de la historia: Aprender mucho, mucha vida.
+    claridad mental: relajacion. El cerebro funciona todo el tiempo. la diversion hace mas productivo. 
+    precede al flash y determinación, es necesario. Estimulo el
+    Flash: combinar ideas que ya existian, viaja del inconciente al conciente. 
+    Combinacion occidente y oriente. 
+    grandes combinaron cosas que ya existian (que lleva adentro) para hacer algo único.
+    Ni pura intuición, ni puro análisis. Escribir ideas para no olvidar.
+        
+B_      Steve Johnson
+    Patrones de ambientes para innovar: Las ideas mas poderosas toman largo tiempo en evolucionar, hasta que tiene 2 o 3 o 10 años se hacen utiles. Las buenas ideas son la colision de varias corazonadas. Necesitan de un tiempo de incubacion. La vida multitarea y de continua coneccion lleva a un pensamiento menos sofisticado. La suerte favorece a la mente conectada.
+
+C_      Ken Robinson - cambiar paradigmas
+    Todos los paises estan reformando la educacion. Queren resolver como educar a los niños para entrar en el sistema laboral del siglo 21. Como hacerlo con tanta incertidumbre de un mes a otro. La segunra razon es cultural, para que tengan identidad y pasar genes culturales a la comunidad, aun siendo parte de la globalizacion. 
+    La educacion actual fue diseñada en la epoca del ilustración y Revolucion Industrial. Antes no habia. Se vasó en la habilidad academica ( libros y autores) Muchos sufren. Los niños estan siendo bombardeados por más cosas que cualquiera en la historia, y se los castiga por distraerse de las cosas aburridas.  Lo estético es abrirse a la contemplación de lo que pasa. lo anestésico es dormir nuestros sentidos. Hacemos que los niños se duerman para pasar la educacion (drogas). 
+    Las escuelas se parecen a las fabricas, grupos, edificios, edades, como fecha de los productos. 
+    Pensamiento divergente ayuda a la creatividad, es ver muchas respuestas a una pregunta, muchas interpretaciones. Se deteriora cuando crecen, de chicos mucho lo tienen. Copiar es colaboracion. educacion dice que hay una respuesta. El gran aprendizaje sucede en gurpos, por colaboracion. 
+
+D_  Como iniciar una revolucion de pensamiento creativo -    Jorge Rivera
+    Mucha gente no sabe como llevar la idea a acción, eso da miedo, el miedo paraliza, y l aidea se pierde. Cara uno: iniciar, busco problema y solucion creativa. cara dos: Detonar, donde voy a comenzar mi revolucion de pensamiento, en el lugar donde nos sintamos más comodos, en el circulo de mejores amigos, luego familia, club de barrio, etc. Cara tres: enganchar. contagiar. Mensaje claro y consiso (tres renglones) que viaje facil, que se pase la voz. dibjuar el camino que vamos a seguir. Liderar, contar con PASIÓn nuestra idea. mas emociona mas une a nosotros, y eso es creer en nosotros mismos. Ultima cara, accionar, balance entre pensamiento creativo y racional. gente que tenga sueños y gente que los pueda concretar. Perder el miedo a compartir tu idea.
+    
+E_      Andrés Oppenheimer, la iimportancia de la innovación. 
+    La era de la economía del conocimiento, el trabajo mental vale cada vez mas y el manual cada vez menos. porque algunos paises tiene mas genios q otros. deficit en america latina en innovadores (muchos artistas y futbolistas si). Falta tolerancia social con el fracaso individual. El fracaso es parte de etapas que llevan al éxito, en otros países se sigue apostando a ellos. temor a fracasar es el problema, inhibe a los empresarios a tratar de emprender e innovar. Poca inversion en ciencia y tecnologia, pocas patentes. Crear una cultura de veneración a los innovadores. por eso hay tantos buenos futbolistas. globalizar la eduacion. si un profesional se va a otro pais se lo bardea. fuga de cerebros se transforma en circulación de cerebros. mejoran. se perfeccionan. que al profesional se lo atraiga cada 3 años por ejemplo para un proyecto nacional. paises serios, irresponsables con suerte, y paises irresponsables sin suerte. innovar o morir. kodak. 
+
+F_      Clarisa Herrera
+    La innovacion brota en gran medida del choque entre grupos sociales y/ o culturas (nodos o clústers sociales). Abre perspectiva. Multiplicidad de perspectivas. 
+    "Gardner dice que la creatividad no es sólo fruto de la genialidad de una persona, sino consecuencia de la interacción espontánea de su expertise con la cultura en la que se desempeña y la capacidad de la sociedad para reconocer la innovación."
+
+    
+G_      Guillermina Rizzo
+    Cotizan las ideas? Idéa: aspecto, forma o apariencia, "yo ví". "primero y más obvio de los actos del entendimiento, que se limita al simple conocimiento de algo?. En la realización radica la diferencia.el valor no está en evitar que te roben o te copien, sino en lograr que muchos te quieran copiar...
+    
+H_      David Kelley - How to  build creative confidence
+    Gente que renuncia a la creatividad, por un padre o profesor o compa cruel. Bandura: dominio guiado, serie de etapas. ganan eficiencia personal: la sensacion de poder  cambiar el mundo. la confianza les da mas ideas y mas elecciones, y toman mejores desiciones. 
+    
+I_      Marcos Galperin - el empresario contratista
+    Argentina esta bien posicionada en innovacion en america latina. Hay que estar todo el tiempo innovando y probando cosas distintas, hay que arriesgarse. Mejor hacer 100 cosas q 80 salen bien, 20 mal, correjir 5, que hacer 10 bien. Hay industtriales increibles trasparentes, y otros que hacen negocios con el estado, que se benefician politicos(contratista del estado). Hay que generar un valor al consumidor, a menos q seas del segundo tipo.
+    
+
+CAP 3
+
+B_      Diferencia entre emprendedor y empresario
+    El empresario no es siempre quien inicia una empresa. uno bueno tiene lidreazgo, paciencia, tolerancia al riesgo, liderazgo, solucionador de problemas, prioridades, iniciativa y seguimiento, y conocimiento de areas, ventas, marketing, produccion y sistemas. 
+    Un emprendedor es capaz de enfrentar retos en situaciones dificiles, y enfrentar grandes cambios. Por ej. alguien que trepa el monte everest, o quien inicia una marcha. paciencia, autoconfianza, vision, competividad, perseverancia, optimismo, y tolerancia al riesgo, enfocado a movimientos positivos. gandi martin luther king, mandela.
+
+C_      Ideas orgánicas para startups - Paul Graham
+    Que deseo que alguien haga para mí(ideas organicas)? o para  alguien lejano diferente a mí, desearía para sí(ideas fabricadas). El Iphone es el teléfono que Jobs quería. Las organicas suelen tener mas éxito, ppalmente con emprendedores jovenes. Centrarse en la idea no en el startup, arreglar cosas sin importar si es suficientemente importante.
+    Lo mas vaioso es encontrar una necesidad insatisfecha que se puede volver solucionable, hay que trabajar mucho, pero la parte dificil es hallarla.
+    
+D_      Javier Megias - Algunos modelos de negocios innovadores
+    Hay que cuestionarse periodicamente el modelo de negocio ppio (como piensa operar y obtener dinero o valor social). se analiza el actual  y se proponen nuevos modelos. a principios del siglo XX prestabas un servicio y lo vendías en directo, luego se formaron nuevas formas de generar ingresos (repuestos, alquileres). 
+    -Modelo de dos o varios lados: grupos de clientes independientes, aunque se benefician mutuamente. La empresa debe facilitar la interacción entre ellos. atraer y crear valor a los dos lados por igual. Por eso suele suceder que uno de los lados es subvencionado. Como el diario metro que es gratis a los clientes y cobra a los anunciantes. Google, ps3, tarjetas de credito, etc. boliche chicas chicos tragos. 
+    -Larga cola: vender muchas unidades de un gran numero de articulos que se venden poco. para eso: los costes asociados al recurso finito(inventario por ej.) deben bajar dramáticamente. 2. se debe disponer de un sistema eficaz de recomendaciones para consucir a los clientes a lo largo de la cola, generando ventas de los productos menos vendidos/de nicho. ej: amazon y libros electronicos. Impresion por demanda, buena AI recomendacion.
+    -Cebo y anzuelo: oferta inicial atractiva y barata que fidelize al cliente con la marca, y luego seguir comprando productos o servicios.  se suele perder dinero al comienzo. operadoras de telecomunicaciones. impresoras.
+    -Nube y saas(soft como servicio): convertir producto en servicio, y gasto fijo en variable. en vez de comprar algo costoso, se paga por suscripcion y soporte.
+    -Freemium: particularizacion del modelo de dos lados, clientes pagos (servicio completo) que subencionan a los gratuitos(servicio basico). Es posible si los servicios se basan en una plataforma que agrega costes y hace muy barato escalonarlos (ya que los usuarios free y los pagos rondan el 1-2%). Hay maneras adicionales de subbencionar a la base de usuarios gratuita, como publicidad, o como radiohead, en conciertos y mercahndising).
+    -CoCreacion y el Crowdsourcing: es una aproximacion diferente a la creacion d valor, y se basa en involucrar a una gran multitud en la resolucion de un problema o prestacion de un servicio a cambio de una recompensa. - Comunidades puras (wikipedia). -Concursos/Desafios: lado empresarial propone unp roblema y el ganador (ladomultitud) recibe el pago al resolverse el concurso. -Ideágoras: las empresas alquilan multitudes para resolver problemas de carácter científico o tecnológico a cambio de una recompensa. el ingreso viene de capturar una parte del valor de las transacciones. el mercado debe ser grande, el problema debe ser comprensible. marketing clave, captar nuevos y mantener a los viejos. recompensa adecuada. flujo de caja correcto. empresa paga al ppio.
+    
+E_      Como aplicar el modelo canvas
+    modelo de negocio en una sola hoja. 
+    - Propuesta de valor: problema o necesidad resuelve, diferenciacion. - Segmento de mercado: conocer geografica demografica y socialmente a tus clientes. que tipo de persona va dirigido, edad sexo estudio prov paises. - Canales: como llega nuestro producto a los clientes (fisico, internet por dispositivos moviles, o web de ventas). - Relacion con los clientes: como conseguir nuevos, mantenerlos y hacerlos crecer, tacticas. - Modelo de Ingresos: como monetizar el producto o servicio. sistema de pagos, tarjeta efectivo contrareembolso. Que valor ofrecemos que los clientes quieran comprar. - Recursos clave: cuales son los elementos mas importantes que necesitamos para que nuestro negocio funcione: elementos financieros, físicos, intelectuales y humanos. Personal, infraestructura, capital y tecnologia. - Actividades claves: que cosas mas importantes ofrece nuestra compañia para que el modelo de negocio funcione: produccion, consultoria, solucion de problemas, ingenieria, gestion de suministros. actividades clave para que la empresa comienze a generar dinero. - Socios clave: cuales son los ppales socios y suministradores que necesitamos para que el negocio funcione. proveedores clave, que productos, que necesitamos de ellos para arrancar. -Estructura de costes: cuales son los costes necesarios para poder arrancar: identificar los recursos con los costes más altos, las actividades ppal es con mas costo, costos fijos, variables, economias de escala, impuestos.
+    
+F_      The lean startup - Resumen
+    1- VISION busca que se construye y no cuanto. La meta de un startup es descubrir lo que debe construir, aquello que el cliente valora y por lo que quiere pagar, lo más rápido posible.
+    a diferencia del management común, que busca una planificación larga y detallada antes de ejecutar (cohete), el método Lean enseña a los emprendedores a manejar sus startups sobre la marcha (auto). En lugar de hacer planes complejos basados en muchas asunciones, sep ueden hacer ajustes constantes mediante un proceso cíclico de retroalimentación basado en Construir - Medir - Aprender. Así se decide si mantener el camino o pivotear hacia nuevas direcciones. "Un startup es una institución formada por personas diseñada para crear un nuevo producto o servicio bajo condiciones de extrema incertidumbre".
+    fcion principal de startup es aprender, cuales elementos de la estrategia funcionan; que quieren los clientes, no lo que suponemos que quieren o lo que dicen q quieren (isa con los estudios de mercado). hay que valorarlo empiricamente. valor = beneficios al cliente. ver cosas que el cliente no quiere y eliminarlo sistemáticamente, lo antes posible. APRENDER. El esfuerzo que no es absolutamente necesario para aprender lo que los clientes quieren debe ser eliminado. Queda validado por mejoras en los indicadores clave. eso permite mostrar a los inversores el progreso. encontrar el punto donde nuestra vision y las necesidades de los clientes se encuentran. Esperar a que los numeros sean positivos retrasa, aumenta la cantidad de desperdicio, retrasa el feedback y aumenta el riesgo de crear algo que nadie quiere. hipotesis y experimentacion, guiada por la vision. "Piensa en grande, pero empieza experimentando sobre cosas pequeñas. Para el cambio en el largo plazo, empieza experimentando ahora mismo."
+    El modelo LS es un experimento mas que una investigacion teorica, es el primer producto. si funciona, ya resolvio problemas reales y ofrece especificaciones detalladas de lo que se debe crear. son el resultado de la retroalimentación sobre el trabajo actual y no una anticipacion de lo que podria funcionar en el futuro.
+    2 - MANEJAR Startup: catalizador que transforma ideas en productos. En la interaccion de los clientes con el producto surje el feedback que permite aprender y trabajar de cara al futuro. Proceso de tres pasos: a_construir(producto)->medir(data)->aprender(ideas)->aprender... 
+    
